@@ -1,4 +1,5 @@
-Frontend UI Assignment
+# Ajackus Frontend Assignment – Employee Directory Web App
+
 Objective
 Develop a responsive and interactive Employee Directory Web Interface using HTML, CSS, JavaScript, and Freemarker templates. The goal is to assess your understanding of modern front-end development principles and your ability to build clean, modular, and user-friendly interfaces without relying heavily on external APIs.
 Requirements
@@ -9,6 +10,7 @@ Display a list/grid of employees with the following details:
 Use a Freemarker template to render the list (mock data will be passed to the template).
 Each employee card/row should have an "Edit" and "Delete" button.
 
+<img width="686" height="279" alt="image" src="https://github.com/user-attachments/assets/2e2ba288-01b6-4b67-940b-7542894aad62" />
 
 
 Add/Edit Form Page
@@ -16,6 +18,8 @@ Create a form (HTML) to add or edit an employee.
 This form should be styled and validated using CSS and JavaScript.
 Fields: First Name, Last Name, Email, Department, Role.
 Use simple client-side JavaScript to handle form submission, validation, and updating the data locally (in memory, no backend required).
+
+<img width="547" height="560" alt="image" src="https://github.com/user-attachments/assets/b0f3e8c4-2674-491e-87f4-5f82e3308252" />
 
 
 
@@ -27,7 +31,7 @@ Role
 Add a search bar at the top to search employees by name or email.
 Add sorting capability by First Name and Department.
 
-
+<img width="667" height="341" alt="image" src="https://github.com/user-attachments/assets/2a172523-1052-4560-a78b-76bd97024a12" />
 
 Pagination or Infinite Scroll
 Implement pagination (options for 10, 25, 50, 100) or infinite scrolling using JavaScript.
@@ -75,3 +79,4 @@ Use of JavaScript for DOM manipulation and interactivity.
 Freemarker integration and clean templating.
 User Experience (UX) & Interface Design (UI).
 Code structure, readability, and validation handling.
+
